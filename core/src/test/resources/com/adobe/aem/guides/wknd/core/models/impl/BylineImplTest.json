@@ -1,0 +1,13 @@
+{
+    "byline":{
+        "jcr:primaryType":"nt:unstructured",
+        "jcr:createdBy":"admin",
+        "occupations":["Blogger","Youtuber"],
+        "jcr:lastModifiedBy":"admin",
+        "fileName":"stacey-roswells.jpg",
+        "jcr:created":"Wed May 26 2021 13:10:18 GMT+0000",
+        "name":"Stacey Roswells",
+        "jcr:lastModified":"Wed May 26 2021 13:13:16 GMT+0000",
+        "sling:resourceType":"wknd/components/byline"
+    }
+}
